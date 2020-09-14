@@ -1,0 +1,19 @@
+{
+  "name": "cyberjin-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadrina-lightit/cyberjin-theme.git"
+  },
+  "author": "Shadrina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadrina-lightit/cyberjin-theme/issues"
+  },
+  "homepage": "https://github.com/shadrina-lightit/cyberjin-theme#readme"
+}

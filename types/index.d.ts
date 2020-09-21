@@ -3,6 +3,7 @@ declare const theme: {
         primary: {
             main: string;
             light: string;
+            lightest: string;
         };
         text: {
             secondary: string;

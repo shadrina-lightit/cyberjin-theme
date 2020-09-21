@@ -2,6 +2,7 @@ declare const palette: {
     primary: {
         main: string;
         light: string;
+        lightest: string;
     };
     text: {
         secondary: string;

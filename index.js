@@ -1,3 +1,5 @@
+'use strict';
+
 var palette = {
     primary: {
         main: '#379478',
@@ -96,4 +98,4 @@ var theme = {
     components: components,
 };
 
-export default theme;
+module.exports = theme;

@@ -4,7 +4,7 @@ export default {
   input: './src/index.ts',
   output: {
     file: 'index.js',
-    format: 'es'
+    format: 'commonjs'
   },
   plugins: [
     typescript({ declaration: true })

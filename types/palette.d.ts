@@ -6,6 +6,7 @@ declare const palette: {
     };
     text: {
         secondary: string;
+        hint: string;
     };
     background: {
         default: string;

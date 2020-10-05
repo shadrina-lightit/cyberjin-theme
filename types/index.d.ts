@@ -7,6 +7,7 @@ declare const theme: {
         };
         text: {
             secondary: string;
+            hint: string;
         };
         background: {
             default: string;

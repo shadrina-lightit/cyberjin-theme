@@ -11,6 +11,7 @@ const palette = {
   background: {
     default: '#F2F5F9',
   },
+  divider: '#D3DAE2',
 };
 
 export default palette;

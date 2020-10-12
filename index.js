@@ -13,6 +13,7 @@ var palette = {
     background: {
         default: '#F2F5F9',
     },
+    divider: '#D3DAE2',
 };
 
 var baseSelectors = {

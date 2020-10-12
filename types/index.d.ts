@@ -12,6 +12,7 @@ declare const theme: {
         background: {
             default: string;
         };
+        divider: string;
     };
     baseSelectors: {
         body: {

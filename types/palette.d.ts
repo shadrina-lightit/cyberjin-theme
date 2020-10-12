@@ -11,5 +11,6 @@ declare const palette: {
     background: {
         default: string;
     };
+    divider: string;
 };
 export default palette;

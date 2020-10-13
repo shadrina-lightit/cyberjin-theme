@@ -7,6 +7,7 @@ var palette = {
         lightest: '#EAF6F3',
     },
     text: {
+        primary: '#232A36',
         secondary: '#657082',
         hint: '#ABBCBE',
     },

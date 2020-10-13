@@ -6,6 +6,7 @@ declare const theme: {
             lightest: string;
         };
         text: {
+            primary: string;
             secondary: string;
             hint: string;
         };

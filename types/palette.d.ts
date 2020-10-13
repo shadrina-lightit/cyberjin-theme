@@ -5,6 +5,7 @@ declare const palette: {
         lightest: string;
     };
     text: {
+        primary: string;
         secondary: string;
         hint: string;
     };

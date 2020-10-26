@@ -85,4 +85,33 @@ declare const theme: {
         };
     };
 };
+export declare const selectStyle: ({ theme, option, dropdownIndicator, clearIndicator, control, container, singleValue, multiValue, menu, }: {
+    theme: any;
+    option?: (state?: any) => {} | {
+        [key: string]: string | number;
+    };
+    dropdownIndicator?: (state?: any) => {} | {
+        [key: string]: string | number;
+    };
+    clearIndicator?: (state?: any) => {} | {
+        [key: string]: string | number;
+    };
+    control?: (state?: any) => {} | {
+        [key: string]: string | number;
+    };
+    container?: (state?: any) => {} | {
+        [key: string]: string | number;
+    };
+    singleValue?: (state?: any) => {} | {
+        [key: string]: string | number;
+    };
+    multiValue?: (state?: any) => {} | {
+        [key: string]: string | number;
+    };
+    menu?: (state?: any) => {} | {
+        [key: string]: string | number;
+    };
+}) => {
+    [key: string]: any;
+};
 export default theme;
